@@ -1,0 +1,6 @@
+﻿  Date.cpp
+  List.cpp
+  Main.cpp
+  PhongKS.cpp
+  Generating Code...
+c:\users\dell\desktop\.vs\baitap\baitap\date.cpp(47): error C4716: 'operator<<': must return a value
